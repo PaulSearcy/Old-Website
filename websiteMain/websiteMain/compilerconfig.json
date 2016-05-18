@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "public/stylesheets/justifiedNav.css",
+    "inputFile": "public/stylesheets/justifiedNav.sass"
+  },
+  {
+    "outputFile": "public/stylesheets/blog.css",
+    "inputFile": "public/stylesheets/blog.sass"
+  }
+]

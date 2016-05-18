@@ -1,0 +1,27 @@
+{
+  "name": "websitemain",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node "
+  },
+  "description": "website",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "dependencies": {
+    "body-parser": "~1.8.1",
+    "bootstrap": "^3.3.6",
+    "cookie-parser": "~1.3.3",
+    "debug": "~2.0.0",
+    "express": "~4.9.0",
+    "express-handlebars": "^3.0.0",
+    "favico.js": "^0.3.10",
+    "jquery": "^2.2.3",
+    "morgan": "~1.3.0",
+    "mustache": "^2.2.1",
+    "serve-favicon": "~2.1.3",
+    "stylus": "0.42.3"
+  }
+}

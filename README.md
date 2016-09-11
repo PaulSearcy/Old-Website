@@ -1,2 +1,5 @@
-# website
-A copy of the code, not content, for my personal website.
+# Old Website version
+
+Code of the previous version of psearcy.com.
+
+Showcases how it was designed using Node, Express and Handlebars.
